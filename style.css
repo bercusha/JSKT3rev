@@ -1,0 +1,14 @@
+.slider-container {
+  position: relative;
+  }
+
+.slider-container input {
+  width: 100%;
+}
+
+.slider-container #slider-value {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
